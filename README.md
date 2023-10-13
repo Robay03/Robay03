@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Robay03
-- 👀 I’m interested in html
-- 🌱 I’m currently learning dp2
-- 💞️ I’m looking to collaborate on apple maybe lol
+
 - 📫 How to reach me "sanglobae@gmail.com"
 
 <!---
